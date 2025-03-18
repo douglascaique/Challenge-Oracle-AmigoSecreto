@@ -42,7 +42,7 @@ OU
 
 ## Capturas de Tela
 
-![Tela Inicial](assets/amigo-secreto.png)
+![Tela Inicial](assets/image.png)
 
 ## Autor
 
